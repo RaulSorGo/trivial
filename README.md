@@ -1,2 +1,2 @@
 # trivial
-Proyecto de desarrollo de una aplicacin completa
+Proyecto de desarrollo de una aplicación completa
